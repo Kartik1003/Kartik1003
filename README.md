@@ -36,19 +36,6 @@ I am actively involved in **academic research**, with multiple papers presented 
 
 ---
 
-## 🔬 Research & Publications
-
-- **Hybrid SVM-XGBoost Model for Cancer Prediction**  
-  *IEEE INDISCON 2025, NIT Rourkela*  
-
-- **Optimizing Dataset Management with Blockchain-Based Cryptographic Hashing and Proof-of-Work**  
-  *ICCSAI 2025, Galgotias University*  
-
-- **Enhanced Clustering in High-Dimensional Data Using PSO and Machine Learning**  
-  *ISMS 2025, NIT Kurukshetra*  
-
----
-
 ## 🚀 Featured Projects
 
 ### 🚕 Taxi Fare Prediction
