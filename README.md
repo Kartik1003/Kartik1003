@@ -15,14 +15,6 @@ I am actively involved in **academic research**, with multiple papers presented 
 
 ---
 
-## 🎓 Education
-
-**Bachelor of Technology in Computer Science (AI & ML Specialization)**  
-United College of Engineering and Research, Prayagraj  
-📅 2023 – 2027
-
----
-
 ## 🛠️ Technical Skills
 
 ### Programming & Frameworks
