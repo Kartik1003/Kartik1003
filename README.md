@@ -90,7 +90,6 @@ United College of Engineering and Research, Prayagraj
 
 - 🥇 **Winner** — Hackshetra, Techspardha’25 (NIT Kurukshetra)  
 - 🥈 **Second Runner-up** — Excalibur’25 (NIT Kurukshetra)
-- 
 ---
 
 ## 📫 Connect With Me
